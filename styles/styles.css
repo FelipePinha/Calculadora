@@ -25,6 +25,7 @@ header > h1 {
     height: 25rem;
     border-radius: 10px;
     background-color: #182034;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, .8);
 }
 
 .output {
